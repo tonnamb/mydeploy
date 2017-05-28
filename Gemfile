@@ -6,6 +6,7 @@ gem 'capistrano-rails'
 gem 'capistrano-rbenv'
 gem 'capistrano-bundler'
 gem 'capistrano3-unicorn'
+gem 'pg'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.6'
